@@ -220,9 +220,10 @@ SmartEat uses a custom **FoodDonation** smart contract deployed on the **Ethereu
 
 Built with ❤️ at **FON Hackathon – Web4 Challenge 2026** by:
 
+- [@andrijanaopacic](https://github.com/andrijanaopacic)
 - [@tijanam13](https://github.com/tijanam13)
 - [@andjelaaNikolic](https://github.com/andjelaaNikolic)
-- [@andrijanaopacic](https://github.com/andrijanaopacic)
+
 
 The application was developed using Lovable as an AI-assisted full-stack development platform, enabling rapid implementation of features, integrations, and deployment within the hackathon timeframe, including a Supabase backend, Edge Functions, and blockchain components.
 
